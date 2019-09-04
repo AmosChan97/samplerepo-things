@@ -1,3 +1,7 @@
+grey
+red
+white
+green
 purple
 black
 magenta
